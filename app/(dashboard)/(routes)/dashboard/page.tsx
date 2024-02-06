@@ -1,8 +1,10 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 
-export default function DashboardPage() {
+const DashboardPage = () =>  {
   return (
-    <Button variant='destructive' size='lg'>Click Me</Button>
+    <p>Dashboard page (protected)</p>
   );
 }
+
+export default DashboardPage;
