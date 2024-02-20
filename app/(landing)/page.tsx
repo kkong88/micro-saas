@@ -7,7 +7,7 @@ const LandingPage = () => {
             <div>
                 <Link href='/sign-in'>
                         <Button>
-                            Login
+                            Login!
                         </Button>
                 </Link>
                 <Link href='/sign-up'>
