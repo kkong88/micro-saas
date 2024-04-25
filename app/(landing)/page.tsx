@@ -7,12 +7,12 @@ const LandingPage = () => {
             <div>
                 <Link href='/sign-in'>
                         <Button>
-                            Login here!
+                            Login here!!
                         </Button>
                 </Link>
                 <Link href='/sign-up'>
                         <Button>
-                            Register here!
+                            Register here!!
                         </Button>
                 </Link>
             </div>
@@ -21,5 +21,3 @@ const LandingPage = () => {
 }
 
 export default LandingPage;
-
-
