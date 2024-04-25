@@ -1,6 +1,6 @@
 import NavBar from "@/components/navbar";
 import Sidebar from "@/components/sidebar";
-import Page from "../(auth)/(routes)/sign-in/[[...sign-in]]/page";
+
 
 const DashboardLayout = ({
     children
