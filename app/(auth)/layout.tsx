@@ -12,4 +12,3 @@ const AuthLayout = ({
 
 export default AuthLayout;
 
-//auth
