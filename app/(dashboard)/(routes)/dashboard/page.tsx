@@ -8,8 +8,3 @@ const DashboardPage = () =>  {
 
 export default DashboardPage;
 
-//1
-//2
-//3
-//4
-//5
