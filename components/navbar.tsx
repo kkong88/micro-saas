@@ -16,9 +16,3 @@ const NavBar = () => {
 }
 
 export default NavBar
-
-//nav bar
-//2
-//3
-//4
-//5
