@@ -17,8 +17,3 @@ const NavBar = () => {
 
 export default NavBar
 
-//1
-//2
-..3
-/////
-<div styleName={styles['5']}></div>
