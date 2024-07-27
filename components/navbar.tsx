@@ -17,8 +17,3 @@ const NavBar = () => {
 
 export default NavBar
 
-//1
-//2
-//3
-//4
-//5
